@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.start {
+	border: none;
+  padding:10px 20px 10px 20px;
+  font-size:20px;
+	cursor: pointer;
+	outline: inherit;
+  background-color: #e7e7e7;
+  color: black;
+  border-radius: 4px;
+}
+
+.reset {
+	border: none;
+  padding:10px 20px 10px 20px;
+  font-size:20px;
+	cursor: pointer;
+	outline: inherit;
+  background-color: #f29936;
+  color:white;
+  border-radius: 4px;
+}
+
