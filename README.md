@@ -22,7 +22,7 @@ This is a React application where the speedometer gauge was made with the help o
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Also, available [here](https://travel-location.herokuapp.com/).
+Also, available [here](https://speedometer-app.herokuapp.com/).
 
 
 # Tech Stack Used:
