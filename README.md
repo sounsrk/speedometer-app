@@ -1,6 +1,7 @@
 # Speedometer App
 
 This is a React application where the speedometer gauge was made with the help of d3.js.
+
 ![Screenshot of the application](images/screencapture-speedometer.png)
 
 
